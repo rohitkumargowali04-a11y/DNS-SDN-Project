@@ -1,0 +1,7 @@
+{
+  "www.pes.local":  {"ip": "192.168.10.10", "ttl": 10},
+  "mail.pes.local": {"ip": "192.168.10.20", "ttl": 30},
+  "ftp.pes.local":  {"ip": "192.168.10.30", "ttl": 30},
+  "cn.pes.local":   {"ip": "192.168.10.40", "ttl": 60},
+  "sdn.pes.local":  {"ip": "192.168.10.50", "ttl": 60}
+}
